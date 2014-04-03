@@ -1,0 +1,9 @@
+<addon id="script.module.pydevd" name="pydevd" version="3.4.1" provider-name="powlo">
+	<requires>
+		<import addon="xbmc.python" version="1.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib"/>
+	<extension point="xbmc.addon.metadata">
+	<platform>all</platform>
+	</extension>
+</addon>
