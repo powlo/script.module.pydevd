@@ -1,2 +1,2 @@
-v1.0.0
-- initial version
+v3.4.1
+- Packed for XBMC

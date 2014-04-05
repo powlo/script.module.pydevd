@@ -2,7 +2,7 @@ script.module.pydevd
 ==================
 
 XBMC support for PyDev debugging in Eclipse/Aptana.
-Once installed pydevd will be available on the PYTHONPATH.
+Once installed pydevd will be available on $PYTHONPATH.
 
 How to use:
 -----------
